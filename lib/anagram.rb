@@ -10,7 +10,7 @@ class Anagram
     word_array do |w|
       letters = w.split(//)
       letters.sort!
-      
+    end
 
   end
 
