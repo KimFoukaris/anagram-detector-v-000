@@ -14,7 +14,7 @@ class Anagram
       letters = w.split(//)
       letters = letters.sort!
       if letters = word_test
-        matches << w 
+        matches << w
       end
     end
     matches
