@@ -17,7 +17,8 @@ class Anagram
         matches << w
       end
     end
-    matches
+    word_array = matches
+    word_array
   end
 
 end
