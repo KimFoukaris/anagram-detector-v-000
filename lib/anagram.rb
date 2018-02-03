@@ -8,7 +8,6 @@ class Anagram
 
   def match(word_array)
     matches = []
-    matches
     #word_test = word.split(//)
     #word_test = word_test.sort!
     #word_array.each do |w|
@@ -18,8 +17,7 @@ class Anagram
         #matches << w
       #end
     #end
-    #word_array = matches
-    #word_array
+    matches
   end
 
 end
