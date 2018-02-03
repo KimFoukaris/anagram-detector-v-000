@@ -7,4 +7,3 @@ class Anagram
   end
 
 end
-
